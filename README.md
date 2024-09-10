@@ -47,8 +47,6 @@
   <img align="center" alt="oracle" src="https://img.shields.io/badge/oracle-E44C30?style=for-the-badge&logo=oracle&logoColor=white" />
 </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtondeoliveirasanto&layout=compact)
-
 #### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através de mentorias.
 
 
